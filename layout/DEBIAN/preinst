@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+launchctl stop com.apple.dasd
+echo "stop dasd done"
+
+exit 0
+

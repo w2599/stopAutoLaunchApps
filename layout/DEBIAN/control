@@ -1,0 +1,12 @@
+Package: zp.stopautolaunchapps
+Description: 禁用ios热启动神经网络引擎,别在后台热加载app咯! 
+ - 优点:节约内存,少杀后台. 
+ - 玄学:减少重启概率
+Version: 1.0.2
+Maintainer: zqbb
+Author: zqbb
+Architecture: iphoneos-arm
+Name: 听我说谢谢你 - rootless
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Section: Tweaks
+SileoDepiction: https://rootless.zqbb.cf/web/zp.stopautolaunchapps
